@@ -59,9 +59,9 @@
 
 ## 💡 Projets récents
 
-- 🎨 [ft_transcendence](https://github.com/...) : Projet de creation d'un site pour jouer a pong en ligne.
-- 🛠️ [cub3d](https://github.com/...) : Jeu comme doom, utilisant la technologie raycasting.
-- 🌟 [ft_IRC](https://github.com/...) : Systeme de communication avec le protocole IRC.
+- 🌐 [ft_transcendence](https://github.com/ft_transcendence) : Projet de creation d'un site pour jouer a pong en ligne.
+- 🎮 [cub3d](https://github.com/cubed) : Jeu comme doom, utilisant la technologie raycasting.
+- 📩 [ft_IRC](https://github.com/ft_IRC) : Systeme de communication avec le protocole IRC.
 
 ---
 
