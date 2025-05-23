@@ -65,22 +65,6 @@
 
 ---
 
-## 🎮 Hobbies et intérêts
-
-- 🎵 Musique : J'aime enormement la musique, notamment des USA, j'aime des artistes comme travis scott, kendrick lamar franck ocean et d'autres, mais aussi des artistes français.
-- 🎮 Jeux vidéo : J'ai toujours aimé les jeux videos, particulierment les jeux creatifs, comme minecraft, city skyline, roller coaster tycoon etc...
-- 🌍 Voyages : Pour moi voyager est une chance et un enorme plaisir, j'ai pu decouvrir une grande partie de l'europe, et aussi les etats unis, ce qui est très inspirant !
-- 🖌 Vie : J'essaie au quotidien de faire changer l'image potentiellement negative de certaines personnes par rapport a l'informatique. Et faire comprendre que c'est un millieu pour tous et toutes, et qu'il a besoin de personnes et de passions qu'on peut croire comme opposé a la programmation!
-
----
-
-## 🏆 Badges et accomplissements
-
-- 💎 Concours : Piscine de l'école 42 !
-- 🥇 Hackatons : 1391eme "CodinGame Summer Challenge 2024 by Fiverr"
-
----
-
 ## 📫 Me contacter
 
 - **Email** : arthur.pages30@gmail.com
