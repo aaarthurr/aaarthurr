@@ -4,10 +4,12 @@
 
 ## 🙋 A propos de Moi
 
-- 😄 **Mon nom** : Arthur PAGES
-- 🎂 **Mon age** : 20 ans
-- 🎓 **Ma formation** : Ecole 42
-- 📍 **Ma localisation** : 🇫🇷Perpignan / 🇫🇷Nîmes
+- 😄 **Nom** : Arthur PAGES
+- 🎂 **Age** : 20 an
+-  📍  **Localisation** : Perpignan / Nîmes
+- 🎓 **Formation** : Ecole 42
+
+[![arpages's 42 stats](https://badge.mediaplus.ma/kettlebells/arpages)](https://github.com/oakoudad/badge42)
 
 ---
 
