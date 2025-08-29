@@ -56,6 +56,9 @@
 
 ![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=aaarthurr&show_icons=true&theme=neon)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/arpages?theme=dark&font=Roboto)
+
+
 ---
 
 ## 💡 Projets récents
