@@ -17,7 +17,7 @@
 
 - 💻 Mon projet de l'ecole : ft_transcendence (99%🐞).
 - 👀 Mon projet perso : Algo de resolution de sudoku (90%⏳).
-- 🔍 Mon projet pro : A la recherche d'un stage.
+- 🔍 Mon projet pro : Application web d'integration d'ERP
 
 ---
 
