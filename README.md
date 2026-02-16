@@ -17,7 +17,7 @@
 
 - 💻 Mon projet de l'ecole : ft_transcendence (99%🐞).
 - 👀 Mon projet perso : Site Portfolio (30%)
-- 🔍 Mon projet pro : Application web d'integration d'ERP
+- 🔍 Mon projet pro : BaaS Service training
 
 ---
 
