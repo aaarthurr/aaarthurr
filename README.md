@@ -6,31 +6,31 @@
     <tr>
       <td align="center" style="padding: 20px; border: none;">
         <a href="https://github.com/aaarthurr">
-          <img src="./folder.png" alt="folder" width="100"><br>
+          <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>Portfolio</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
         <a href="https://github.com/aaarthurr">
-          <img src="./folder.png" alt="folder" width="100"><br>
+          <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>ft_transcendence</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
         <a href="https://github.com/aaarthurr">
-          <img src="./folder.png" alt="folder" width="100"><br>
+          <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>Cursus</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
         <a href="https://github.com/aaarthurr">
-          <img src="./folder.png" alt="folder" width="100"><br>
+          <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>DAFT</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
         <a href="https://github.com/aaarthurr">
-          <img src="./folder.png" alt="folder" width="100"><br>
+          <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>cub3d</p>
         </a>
       </td>
