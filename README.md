@@ -62,6 +62,7 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![n8n](https://img.shields.io/badge/n8n-1B1728?style=for-the-badge&logo=n8n)
 
   <h2>𝚂 𝚃 𝙰 𝚃 𝚂</h2>
   
