@@ -5,31 +5,31 @@
   <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="padding: 20px; border: none;">
-        <a href="https://github.com/aaarthurr">
+        <a href="https://github.com/aaarthurr/arpages_portfolio">
           <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>Portfolio</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
-        <a href="https://github.com/aaarthurr">
+        <a href="https://github.com/aaarthurr/ft_transcendence">
           <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>ft_transcendence</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
-        <a href="https://github.com/aaarthurr">
+        <a href="https://github.com/aaarthurr/42Cursus">
           <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>Cursus</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
-        <a href="https://github.com/aaarthurr">
+        <a href="https://github.com/aaarthurr/DAFT">
           <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>DAFT</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
-        <a href="https://github.com/aaarthurr">
+        <a href="https://github.com/aaarthurr/42cub3d">
           <img src="./img/folder.png" alt="folder" width="100"><br>
           <p>cub3d</p>
         </a>
