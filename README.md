@@ -5,9 +5,9 @@
   <table align="center" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="padding: 20px; border: none;">
-        <a href="https://github.com/aaarthurr/arpages_portfolio">
+        <a href="https://github.com/aaarthurr/computorv2">
           <img src="./img/folder.png" alt="folder" width="100"><br>
-          <p>Portfolio</p>
+          <p>Computor_v2</p>
         </a>
       </td>
       <td align="center" style="padding: 20px; border: none;">
